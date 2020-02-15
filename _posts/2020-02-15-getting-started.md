@@ -5,14 +5,14 @@ date: 2020-02-15
 ---
 
 ### Things to do
-1. Linux
+- Linux
   - acrolinux
   - bash, sed, vi
 
-1. Haskell
+- Haskell
   - xmonad
 
-1. Ruby
+- Ruby
   - Jekyll
 
-1. Turkey NMO
+- Turkey NMO
