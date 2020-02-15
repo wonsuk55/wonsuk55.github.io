@@ -15,4 +15,4 @@ date: 2020-02-15
 - Ruby
   - Jekyll
 
-- Turkey NMO
+- Turkish NMO 1st Round
