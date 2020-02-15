@@ -6,10 +6,10 @@ date: 2020-02-15
 
 #### Things to do
 1. Linux
--acrolinux
--bash, sed, vi
+- acrolinux
+- bash, sed, vi
 1. Haskell
--xmonad
+- xmonad
 1. Ruby
--Jekyll
+- Jekyll
 1. Turkey NMO
